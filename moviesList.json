@@ -1,0 +1,30 @@
+[
+  {
+    "id": 0,
+    "titulo": "O Homem do Norte",
+    "imagem": "https://www.themoviedb.org/t/p/original/vx32dC28gXz0SDv9MRCNgRmTHxq.jpg",
+    "descricao": "Baseado na obra de Shakespeare, Hamlet, e na lenda viking de Amelth. No ano de 914, o príncipe Amleth (Alexander Skarsgård) testemunha o brutal assassinato de seu pai, Horvendill (Ethan Hawke) por seu tio, Fjölnir (Claes Bang). O menino foge mas jura que voltará para vingar seu pai, salvar sua mãe e matar seu tio. Vinte anos depois conhece uma vidente que o lembra que é chegada a hora de cumprir sua promessa.",
+    "data_lancamento": "12/05/2022"
+  },
+  {
+    "id": 1,
+    "titulo": "Jurassic World: Domínio",
+    "imagem": "https://www.themoviedb.org/t/p/original/698FjyzLdpgXmUSr63LaRwblTmx.jpg",
+    "descricao": "Quatro anos após a destruição da Ilha Nublar, os dinossauros agora vivem – e caçam – ao lado de humanos em todo o mundo. Esse frágil equilíbrio remodelará o futuro e determinará, de uma vez por todas, se os seres humanos continuarão sendo os principais predadores em um planeta que agora compartilham com as criaturas mais temíveis da história.",
+    "data_lancamento": "02/06/2022"
+  },
+  {
+    "id": 2,
+    "titulo": "Top Gun: Maverick",
+    "imagem": "https://www.themoviedb.org/t/p/original/mP1ORf8BGcG0bdtHYhqUt9yUhUT.jpg",
+    "descricao": "Depois de mais de 30 anos de serviço como um dos principais aviadores da Marinha, Pete "Maverick" Mitchell está de volta, rompendo os limites como um piloto de testes corajoso. No mundo contemporâneo das guerras tecnológicas, Maverick enfrenta drones e prova que o fator humano ainda é essencial.",
+    "data_lancamento": "26/05/2022"
+  },
+  {
+    "id": 3,
+    "titulo": "Doutor Estranho no Multiverso da Loucura",
+    "imagem": "https://www.themoviedb.org/t/p/original/3pjew3SaBuJHoJCvAKgl4knhKiS.jpg",
+    "descricao": "Doutor Estranho, com a ajuda de aliados místicos antigos e novos, atravessa as perigosas realidades alternativas e alucinantes do Multiverso para enfrentar um novo adversário misterioso.",
+    "data_lancamento": "05/05/2022"
+  }
+]
